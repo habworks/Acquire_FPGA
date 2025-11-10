@@ -1,0 +1,54 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.81924",
+   "Default View_TopLeft":"732,-1298",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38 GUI=JA:21.0
+#  -string -flagsOSRD
+preplace port port-id_reset_rtl_0 -pg 1 -lvl 0 -x -40 -y -1110 -defaultsOSRD
+preplace port port-id_clk_in -pg 1 -lvl 0 -x -40 -y -840 -defaultsOSRD
+preplace portBus gpio2_io_o_0 -pg 1 -lvl 5 -x 1850 -y -680 -defaultsOSRD
+preplace portBus gpio_io_i_1 -pg 1 -lvl 5 -x 1850 -y -430 -defaultsOSRD -right
+preplace portBus gpio_io_i_0 -pg 1 -lvl 5 -x 1850 -y -710 -defaultsOSRD -right
+preplace inst axi_gpio_0 -pg 1 -lvl 3 -x 1280 -y -630 -defaultsOSRD
+preplace inst microblaze_0 -pg 1 -lvl 2 -x 780 -y -1010 -defaultsOSRD
+preplace inst microblaze_0_local_memory -pg 1 -lvl 3 -x 1280 -y -1030 -defaultsOSRD
+preplace inst mdm_1 -pg 1 -lvl 2 -x 780 -y -670 -defaultsOSRD
+preplace inst clk_wiz_1 -pg 1 -lvl 2 -x 780 -y -850 -defaultsOSRD
+preplace inst rst_clk_wiz_1_100M -pg 1 -lvl 3 -x 1280 -y -850 -defaultsOSRD
+preplace inst axi_smc -pg 1 -lvl 4 -x 1680 -y -600 -defaultsOSRD
+preplace inst xlconstant_0 -pg 1 -lvl 2 -x 780 -y -1180 -defaultsOSRD
+preplace inst util_vector_logic_0 -pg 1 -lvl 1 -x 330 -y -1240 -defaultsOSRD
+preplace inst axi_gpio_irq -pg 1 -lvl 3 -x 1280 -y -410 -defaultsOSRD
+preplace inst axi_intc_0 -pg 1 -lvl 3 -x 1280 -y -210 -defaultsOSRD
+preplace netloc clk_in_1 1 0 2 N -840 N
+preplace netloc clk_wiz_1_locked 1 2 1 1020 -840n
+preplace netloc mdm_1_debug_sys_rst 1 1 2 540 -780 1080
+preplace netloc microblaze_0_Clk 1 1 3 540 -920 1050 -540 1490
+preplace netloc reset_rtl_0_1 1 0 1 -20 -1240n
+preplace netloc rst_clk_wiz_1_100M_bus_struct_reset 1 2 2 1110 -950 1460
+preplace netloc rst_clk_wiz_1_100M_mb_reset 1 1 3 520 -740 N -740 1450
+preplace netloc rst_clk_wiz_1_100M_peripheral_aresetn 1 2 2 1080 -530 1470
+preplace netloc util_vector_logic_0_Res 1 1 2 N -1240 1080
+preplace netloc xlconstant_0_dout 1 2 1 1040 -1180n
+preplace netloc axi_gpio_0_gpio2_io_o 1 3 2 1480J -680 NJ
+preplace netloc gpio_io_i_1_1 1 3 2 1490 -430 N
+preplace netloc gpio_io_i_0_1 1 3 2 1460 -710 N
+preplace netloc axi_gpio_irq_ip2intc_irpt 1 2 2 1110 -490 1450
+preplace netloc axi_smc_M00_AXI 1 2 3 1110 -720 NJ -720 1820
+preplace netloc microblaze_0_M_AXI_DP 1 2 2 1030J -730 1490J
+preplace netloc microblaze_0_debug 1 1 2 530 -750 1020J
+preplace netloc microblaze_0_dlmb_1 1 2 1 1020 -1060n
+preplace netloc microblaze_0_ilmb_1 1 2 1 1030 -1040n
+preplace netloc axi_smc_M01_AXI 1 2 3 1090 -510 NJ -510 1830
+preplace netloc axi_smc_M02_AXI 1 2 3 1100 -500 NJ -500 1820
+preplace netloc axi_intc_0_interrupt 1 1 3 510 -300 NJ -300 1460
+levelinfo -pg 1 -40 330 780 1280 1680 1850
+pagesize -pg 1 -db -bbox -sgen -190 -1530 2080 310
+"
+}
+{
+   "da_axi4_cnt":"1",
+   "da_board_cnt":"7",
+   "da_mb_cnt":"1"
+}

@@ -1,0 +1,4 @@
+domain_path: C:\IMR_Projects\IMR\Acquire_FPGA\Vitis_Workspace\MicroBlaze_IO\MB_IO_Platform\export\MB_IO_Platform\sw\standalone_microblaze_0
+app_src_dir: C:\Xilinx_Embedded_2024.2\Vitis\2024.2\data\embeddedsw\lib\sw_apps\empty_application
+template: empty_application
+lang: c

@@ -1,0 +1,17 @@
+vhdl xil_defaultlib  \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_microblaze_0_0/sim/Block_Diagram_uSD_microblaze_0_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_dlmb_v10_0/sim/Block_Diagram_uSD_dlmb_v10_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_ilmb_v10_0/sim/Block_Diagram_uSD_ilmb_v10_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_dlmb_bram_if_cntlr_0/sim/Block_Diagram_uSD_dlmb_bram_if_cntlr_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_ilmb_bram_if_cntlr_0/sim/Block_Diagram_uSD_ilmb_bram_if_cntlr_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_mdm_1_0/sim/Block_Diagram_uSD_mdm_1_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_rst_clk_wiz_1_100M_0/sim/Block_Diagram_uSD_rst_clk_wiz_1_100M_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_smartconnect_0_0/bd_0/ip/ip_1/sim/bd_ae27_psr_aclk_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_axi_gpio_0_0/sim/Block_Diagram_uSD_axi_gpio_0_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_axi_quad_spi_0_0/sim/Block_Diagram_uSD_axi_quad_spi_0_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_axi_timer_0_0/sim/Block_Diagram_uSD_axi_timer_0_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_axi_uartlite_0_0/sim/Block_Diagram_uSD_axi_uartlite_0_0.vhd" \
+"../../../bd/Block_Diagram_uSD/ip/Block_Diagram_uSD_axi_intc_0_0/sim/Block_Diagram_uSD_axi_intc_0_0.vhd" \
+
+# Do not sort compile order
+nosort

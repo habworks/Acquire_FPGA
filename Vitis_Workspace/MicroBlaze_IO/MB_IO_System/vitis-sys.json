@@ -1,0 +1,23 @@
+{
+  "modelVersion": "1.0",
+  "projectName": "MB_IO_System",
+  "platform": "MB_IO_Platform",
+  "externalComponentRefs": [
+    "MB_IO_App"
+  ],
+  "components": [],
+  "buildConfigurations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "supportedTargets": [
+        "HW_EMU",
+        "HW"
+      ]
+    }
+  ],
+  "activeBuildConfigId": "default",
+  "hostMode": "x86",
+  "isDirty": true,
+  "applicationFlow": "EMBEDDED"
+}

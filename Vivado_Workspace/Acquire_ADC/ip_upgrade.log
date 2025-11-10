@@ -1,0 +1,1108 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 25 10:16:07 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 52) to (Rev. 53)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 25 08:11:35 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 51) to (Rev. 52)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 25 08:07:36 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 50) to (Rev. 51)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 25 07:06:35 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 49) to (Rev. 50)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Fri Oct 24 12:04:06 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 48) to (Rev. 49)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Fri Oct 24 11:29:06 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 47) to (Rev. 48)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Fri Oct 24 06:58:33 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 46) to (Rev. 47)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Thu Oct 23 05:12:19 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 45) to (Rev. 46)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Thu Oct 23 05:06:48 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 44) to (Rev. 45)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Wed Oct 22 18:17:29 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 43) to (Rev. 44)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Wed Oct 22 16:14:29 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 42) to (Rev. 43)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Wed Oct 22 15:31:08 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 41) to (Rev. 42)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Wed Oct 22 14:59:52 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 39) to (Rev. 41)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Tue Oct 21 14:29:43 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 38) to (Rev. 39)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Tue Oct 21 11:11:02 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 37) to (Rev. 38)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Tue Oct 21 10:04:53 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 36) to (Rev. 37)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Tue Oct 21 06:10:50 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 35) to (Rev. 36)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Tue Oct 21 05:08:52 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 34) to (Rev. 35)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Tue Oct 21 04:33:30 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 33) to (Rev. 34)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Mon Oct 20 14:00:23 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 31) to (Rev. 33)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Mon Oct 20 11:09:49 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 30) to (Rev. 31)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Mon Oct 20 10:38:29 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 29) to (Rev. 30)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Mon Oct 20 10:14:09 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 28) to (Rev. 29)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Mon Oct 20 06:53:23 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 27) to (Rev. 28)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Mon Oct 20 06:43:13 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 26) to (Rev. 27)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Mon Oct 20 06:14:00 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 25) to (Rev. 26)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Mon Oct 20 06:10:51 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 24) to (Rev. 25)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Mon Oct 20 05:29:55 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 23) to (Rev. 24)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Oct 19 08:00:48 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 22) to (Rev. 23)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Oct 19 07:10:54 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 21) to (Rev. 22)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Oct 19 06:44:08 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 20) to (Rev. 21)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Oct 19 06:19:14 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 19) to (Rev. 20)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Oct 19 06:14:09 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 18) to (Rev. 19)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Oct 19 05:42:22 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 17) to (Rev. 18)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Oct 19 04:42:02 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 16) to (Rev. 17)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 18 08:01:37 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 15) to (Rev. 16)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 18 07:38:30 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 14) to (Rev. 15)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 18 06:23:10 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 13) to (Rev. 14)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 18 05:59:15 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 12) to (Rev. 13)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 18 05:13:55 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 18 05:05:41 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 10) to (Rev. 11)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Fri Oct 17 14:52:40 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 9) to (Rev. 10)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Fri Oct 17 12:51:50 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 5) to (Rev. 9)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sat Oct 11 07:14:57 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Fri Oct 10 15:35:01 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Fri Oct 10 06:45:49 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Fri Oct 10 06:28:00 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 (IMR:user:IMR_ADC_7476A_V1_0:1.8) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Fri Oct 10 05:56:27 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 from IMR:user:IMR_ADC_7476A_V1_0:1.7 (Rev. 3) to IMR:user:IMR_ADC_7476A_V1_0:1.8 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Thu Oct  9 15:09:11 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_6'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_6 (IMR:user:IMR_ADC_7476A_V1_0:1.7) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Thu Oct  9 09:30:37 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_6'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_6 (IMR:user:IMR_ADC_7476A_V1_0:1.7) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Wed Oct  8 05:53:00 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_6'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_6 from IMR:user:IMR_ADC_7476A_V1_0:1.6 (Rev. 1) to IMR:user:IMR_ADC_7476A_V1_0:1.7 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Tue Oct  7 10:39:23 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_5'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_5 from IMR:user:IMR_ADC_7476A_V1_0:1.5 (Rev. 8) to IMR:user:IMR_ADC_7476A_V1_0:1.6 (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Tue Oct  7 05:00:27 2025
+| Host         : LAPTOP-6I567M9C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_5'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_5 (IMR:user:IMR_ADC_7476A_V1_0:1.5) from (Rev. 6) to (Rev. 8)
+

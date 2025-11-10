@@ -1,0 +1,16 @@
+// Mem file initialization records.
+//
+// SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+// Vivado v2024.2 (64-bit)
+// Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+// Created on Sunday October 26, 2025 - 06:55:26 am, from:
+//
+//     Map file     - c:\IMR_Projects\IMR\Acquire_FPGA\Vivado_Workspace\Acquire_ADC\Acquire_ADC.gen\sources_1\bd\Block_Diagram_ADC\Block_Diagram_ADC.bmm
+//     Data file(s) - c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_microblaze_0_0/data/mb_bootloop_le.elf
+//
+// Address space 'Block_Diagram_ADC_i_microblaze_0.Block_Diagram_ADC_i_microblaze_0_local_memory_lmb_bram_64K_7_ADDR_SPACE', bit lane [31:0].
+//
+// Bus width = 32 bits, number of bus blocks = 1.
+
+@00000000
+    B8000000

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="Block_Diagram_Timer_ilmb_bram_if_cntlr_2_synth_1" LaunchDir="C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_Timer/Acquire_Timer.runs/Block_Diagram_Timer_ilmb_bram_if_cntlr_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Block_Diagram_Timer_lmb_bram_2_synth_1" LaunchDir="C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_Timer/Acquire_Timer.runs/Block_Diagram_Timer_lmb_bram_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Block_Diagram_Timer_microblaze_0_2_synth_1" LaunchDir="C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_Timer/Acquire_Timer.runs/Block_Diagram_Timer_microblaze_0_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_Timer/Acquire_Timer.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="Block_Diagram_Timer_ilmb_bram_if_cntlr_2_synth_1"/>
+		<Parent Id="Block_Diagram_Timer_lmb_bram_2_synth_1"/>
+		<Parent Id="Block_Diagram_Timer_microblaze_0_2_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+		<Parameter Name="general.shortenLongPath" Val="true" Type="bool"/>
+	</Parameters>
+	<ProductInfo Name="vivado"/>
+</Runs>
+

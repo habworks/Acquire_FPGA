@@ -1,0 +1,87 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Color Coded_ScaleFactor":"0.759058",
+   "Color Coded_TopLeft":"-233,3",
+   "Default View_ScaleFactor":"1.89465",
+   "Default View_TopLeft":"433,124",
+   "Display-PortTypeClock":"true",
+   "Display-PortTypeInterrupt":"true",
+   "Display-PortTypeOthers":"true",
+   "Display-PortTypeReset":"true",
+   "ExpandedHierarchyInLayout":"",
+   "Grouping and No Loops_ScaleFactor":"0.780261",
+   "Grouping and No Loops_TopLeft":"-205,3",
+   "Interfaces View_Layers":"/mdm_1_debug_sys_rst:false|/RST_H_1:false|/clk_wiz_1_clk_out2:false|/clk_in1_0_1:false|/clk_wiz_1_clk_out3:false|/axi_timer_0_interrupt:false|/microblaze_0_Clk:false|/rst_clk_wiz_1_100M_mb_reset:false|/rst_clk_wiz_1_100M_peripheral_aresetn:false|/rst_clk_wiz_1_100M_bus_struct_reset:false|",
+   "Interfaces View_ScaleFactor":"1.0",
+   "Interfaces View_TopLeft":"-248,-89",
+   "No Loops_ScaleFactor":"0.780261",
+   "No Loops_TopLeft":"-205,3",
+   "Reduced Jogs_Layers":"/mdm_1_debug_sys_rst:true|/RST_H_1:true|/clk_wiz_1_clk_out2:true|/clk_in1_0_1:true|/clk_wiz_1_clk_out3:true|/axi_timer_0_interrupt:true|/microblaze_0_Clk:true|/rst_clk_wiz_1_100M_mb_reset:true|/rst_clk_wiz_1_100M_peripheral_aresetn:true|/rst_clk_wiz_1_100M_bus_struct_reset:true|",
+   "Reduced Jogs_ScaleFactor":"0.637747",
+   "Reduced Jogs_TopLeft":"-392,3",
+   "guistr":"# # String gsaved with Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38 GUI=JA:21.0
+#  -string -flagsOSRD
+preplace port DDR3_0 -pg 1 -lvl 8 -x 2320 -y 960 -defaultsOSRD
+preplace port port-id_CLK_IN -pg 1 -lvl 0 -x -110 -y -90 -defaultsOSRD
+preplace port port-id_DDR3_OK -pg 1 -lvl 8 -x 2320 -y 1040 -defaultsOSRD
+preplace port port-id_CLK_LOCKED -pg 1 -lvl 8 -x 2320 -y 0 -defaultsOSRD
+preplace portBus RST_H -pg 1 -lvl 0 -x -110 -y -10 -defaultsOSRD
+preplace portBus gpio2_io_o_0 -pg 1 -lvl 8 -x 2320 -y 600 -defaultsOSRD
+preplace portBus SW_0 -pg 1 -lvl 8 -x 2320 -y 350 -defaultsOSRD -right
+preplace portBus SW_1 -pg 1 -lvl 8 -x 2320 -y 310 -defaultsOSRD -right
+preplace inst microblaze_0 -pg 1 -lvl 2 -x 500 -y -410 -defaultsOSRD
+preplace inst microblaze_0_local_memory -pg 1 -lvl 5 -x 1460 -y -350 -defaultsOSRD
+preplace inst microblaze_0_axi_intc -pg 1 -lvl 6 -x 1880 -y 360 -swap {0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 25 22 24 26 23} -defaultsOSRD
+preplace inst microblaze_0_xlconcat -pg 1 -lvl 5 -x 1460 -y 370 -defaultsOSRD
+preplace inst mdm_1 -pg 1 -lvl 2 -x 500 -y -170 -defaultsOSRD
+preplace inst clk_wiz_1 -pg 1 -lvl 2 -x 500 -y -20 -defaultsOSRD
+preplace inst rst_clk_wiz_1_100M -pg 1 -lvl 5 -x 1460 -y -170 -swap {4 0 3 1 2 8 6 5 7 9} -defaultsOSRD
+preplace inst util_vector_logic_0 -pg 1 -lvl 1 -x 60 -y -10 -defaultsOSRD
+preplace inst smartconnect_0 -pg 1 -lvl 6 -x 1880 -y 110 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 6 -x 1880 -y 570 -swap {0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 23 22} -defaultsOSRD
+preplace inst axi_timer_0 -pg 1 -lvl 6 -x 1880 -y 770 -swap {0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 24 25 21 22 23 20 26 19 18} -defaultsOSRD
+preplace inst xlconstant_1 -pg 1 -lvl 4 -x 1140 -y 380 -defaultsOSRD
+preplace inst mig_7series_0 -pg 1 -lvl 6 -x 1880 -y 1000 -defaultsOSRD
+preplace inst xlconcat_0 -pg 1 -lvl 7 -x 2210 -y 440 -defaultsOSRD
+preplace inst util_vector_logic_1 -pg 1 -lvl 6 -x 1880 -y 1150 -defaultsOSRD
+preplace inst ila_0 -pg 1 -lvl 3 -x 870 -y 350 -defaultsOSRD
+preplace netloc In0_0_1 1 6 2 2120J 350 N
+preplace netloc In1_0_1 1 6 2 2110J 310 N
+preplace netloc RST_H_1 1 0 2 -90 -70 210
+preplace netloc axi_gpio_0_gpio2_io_o 1 6 2 N 600 N
+preplace netloc axi_timer_0_interrupt 1 4 3 1290 660 NJ 660 2030
+preplace netloc clk_in1_0_1 1 0 2 NJ -90 230J
+preplace netloc clk_wiz_1_clk_out1 1 2 4 NJ -40 970 -20 NJ -20 1660
+preplace netloc clk_wiz_1_clk_out2 1 2 4 N -20 960 -10 NJ -10 1650
+preplace netloc mdm_1_debug_sys_rst 1 2 3 N -160 970 -190 N
+preplace netloc microblaze_0_intr 1 5 1 N 370
+preplace netloc mig_7series_0_init_calib_complete 1 2 6 780 470 N 470 N 470 N 470 2080 1040 N
+preplace netloc mig_7series_0_ui_clk 1 1 6 260 60 740 110 N 110 1240 110 1690 880 2040
+preplace netloc rst_clk_wiz_1_100M_bus_struct_reset 1 4 2 1290 -270 1630
+preplace netloc rst_clk_wiz_1_100M_mb_reset 1 1 5 250 380 740J 460 N 460 NJ 460 1630
+preplace netloc rst_clk_wiz_1_100M_peripheral_aresetn 1 5 1 1670J -130n
+preplace netloc util_vector_logic_0_Res 1 1 5 220 -100 NJ -100 N -100 1270 -30 1680
+preplace netloc xlconcat_0_dout 1 6 2 N 560 2300
+preplace netloc xlconstant_1_dout 1 4 1 N 380
+preplace netloc mig_7series_0_ui_clk_sync_rst 1 2 5 760 670 N 670 N 670 1640 900 2030
+preplace netloc util_vector_logic_1_Res 1 2 5 770 480 N 480 1280 480 NJ 480 2050
+preplace netloc clk_wiz_1_locked 1 2 6 750J 0 N 0 1260J 0 NJ 0 NJ 0 NJ
+preplace netloc microblaze_0_M_AXI_DP 1 2 4 NJ -390 N -390 1220 -440 1690
+preplace netloc microblaze_0_debug 1 1 2 260 -500 740J
+preplace netloc microblaze_0_dlmb_1 1 2 3 780 -380 N -380 N
+preplace netloc microblaze_0_ilmb_1 1 2 3 750 -360 N -360 N
+preplace netloc microblaze_0_interrupt 1 1 6 240 -240 NJ -240 N -240 1250 -40 NJ -40 2060J
+preplace netloc mig_7series_0_DDR3 1 6 2 N 960 N
+preplace netloc smartconnect_0_M00_AXI 1 5 2 1710 20 2030
+preplace netloc smartconnect_0_M01_AXI 1 5 2 1700 200 2050
+preplace netloc smartconnect_0_M02_AXI 1 5 2 1720 210 2040
+preplace netloc smartconnect_0_M03_AXI 1 5 2 1730 220 2030
+levelinfo -pg 1 -110 60 500 870 1140 1460 1880 2210 2320
+pagesize -pg 1 -db -bbox -sgen -240 -770 2510 1320
+"
+}
+{
+   "da_board_cnt":"1",
+   "da_clkrst_cnt":"1",
+   "da_mb_cnt":"2"
+}

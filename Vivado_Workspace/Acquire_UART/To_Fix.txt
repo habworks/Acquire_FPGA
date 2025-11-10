@@ -1,0 +1,1 @@
+ERROR : The port ddr3_odt[0] is allocated in the bank 34 where the input ports are allocated. Enable the Internal Vref to use the Vref as GPIO.

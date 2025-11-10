@@ -1,0 +1,33 @@
+# SPDX-License-Identifier: MIT
+%YAML 1.2
+---
+title: IMR ADC 7476A bare-metal driver binding
+maintainers:
+  - IMR Engineering
+type: driver
+
+properties:
+  compatible:
+    items:
+      - const: "IMR,IMR_ADC_7476A_V1_0"  # Ensure this matches the hardware exactly
+  reg:
+    description: Base address and size of the register map
+  interrupts:
+    description: Interrupt line used by the IP
+    type: int
+    size: 1
+    default: 0
+  interrupt-parent:
+    description: Parent interrupt controller (GIC or AXI INTC)
+    type: int
+    size: 1
+    default: 0
+
+config:
+  - XImrAdc7476A_Config
+
+required:
+  - compatible
+  - reg
+  - interrupts
+  - interrupt-parent

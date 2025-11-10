@@ -1,0 +1,15 @@
+IMR_ADC_7476A_V1_0_0:
+- IMR_ADC_7476A_V1_0
+- None
+axi_gpio_0:
+- axi_gpio
+- gpio
+axi_intc_0:
+- axi_intc
+- intc
+axi_timer_0:
+- axi_timer
+- tmrctr
+axi_uartlite_0:
+- axi_uartlite
+- uartlite

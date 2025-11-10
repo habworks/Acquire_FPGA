@@ -1,0 +1,234 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Jul 29 07:47:45 2025
+# Process ID         : 72580
+# Current directory  : C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.runs/Block_Diagram_DDR3_ilmb_v10_0_synth_1
+# Command line       : vivado.exe -log Block_Diagram_DDR3_ilmb_v10_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Block_Diagram_DDR3_ilmb_v10_0.tcl
+# Log file           : C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.runs/Block_Diagram_DDR3_ilmb_v10_0_synth_1/Block_Diagram_DDR3_ilmb_v10_0.vds
+# Journal file       : C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.runs/Block_Diagram_DDR3_ilmb_v10_0_synth_1\vivado.jou
+# Running On         : LAPTOP-6I567M9C
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+# CPU Frequency      : 1690 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 16936 MB
+# Swap memory        : 19327 MB
+# Total Virtual      : 36263 MB
+# Available Virtual  : 5351 MB
+#-----------------------------------------------------------
+source Block_Diagram_DDR3_ilmb_v10_0.tcl -notrace
+create_project: Time (s): cpu = 00:00:04 ; elapsed = 00:00:06 . Memory (MB): peak = 370.039 ; gain = 66.453
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: Block_Diagram_DDR3_ilmb_v10_0
+Command: synth_design -top Block_Diagram_DDR3_ilmb_v10_0 -part xc7a100tcsg324-1 -incremental_mode off -mode out_of_context
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Device 21-403] Loading part xc7a100tcsg324-1
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 49804
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:15 ; elapsed = 00:00:18 . Memory (MB): peak = 1051.426 ; gain = 467.121
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'Block_Diagram_DDR3_ilmb_v10_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.gen/sources_1/bd/Block_Diagram_DDR3/ip/Block_Diagram_DDR3_ilmb_v10_0/synth/Block_Diagram_DDR3_ilmb_v10_0.vhd:89]
+	Parameter C_LMB_NUM_SLAVES bound to: 1 - type: integer 
+	Parameter C_LMB_DWIDTH bound to: 32 - type: integer 
+	Parameter C_LMB_AWIDTH bound to: 32 - type: integer 
+	Parameter C_LMB_PROTOCOL bound to: 0 - type: integer 
+	Parameter C_EXT_RESET_HIGH bound to: 1 - type: integer 
+INFO: [Synth 8-3491] module 'lmb_v10' declared at 'c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.gen/sources_1/bd/Block_Diagram_DDR3/ipshared/7495/hdl/lmb_v10_v3_0_vh_rfs.vhd:91' bound to instance 'U0' of component 'lmb_v10' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.gen/sources_1/bd/Block_Diagram_DDR3/ip/Block_Diagram_DDR3_ilmb_v10_0/synth/Block_Diagram_DDR3_ilmb_v10_0.vhd:169]
+INFO: [Synth 8-638] synthesizing module 'lmb_v10' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.gen/sources_1/bd/Block_Diagram_DDR3/ipshared/7495/hdl/lmb_v10_v3_0_vh_rfs.vhd:140]
+INFO: [Synth 8-3491] module 'FDS' declared at 'C:/Xilinx/Vivado/2024.2/scripts/rt/data/unisim_comp.v:43311' bound to instance 'POR_FF_I' of component 'FDS' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.gen/sources_1/bd/Block_Diagram_DDR3/ipshared/7495/hdl/lmb_v10_v3_0_vh_rfs.vhd:170]
+INFO: [Synth 8-6157] synthesizing module 'FDS' [C:/Xilinx/Vivado/2024.2/scripts/rt/data/unisim_comp.v:43311]
+INFO: [Synth 8-6155] done synthesizing module 'FDS' (0#1) [C:/Xilinx/Vivado/2024.2/scripts/rt/data/unisim_comp.v:43311]
+INFO: [Synth 8-256] done synthesizing module 'lmb_v10' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.gen/sources_1/bd/Block_Diagram_DDR3/ipshared/7495/hdl/lmb_v10_v3_0_vh_rfs.vhd:140]
+INFO: [Synth 8-256] done synthesizing module 'Block_Diagram_DDR3_ilmb_v10_0' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.gen/sources_1/bd/Block_Diagram_DDR3/ip/Block_Diagram_DDR3_ilmb_v10_0/synth/Block_Diagram_DDR3_ilmb_v10_0.vhd:89]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:20 ; elapsed = 00:00:24 . Memory (MB): peak = 1162.301 ; gain = 577.996
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:20 ; elapsed = 00:00:24 . Memory (MB): peak = 1162.301 ; gain = 577.996
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:20 ; elapsed = 00:00:24 . Memory (MB): peak = 1162.301 ; gain = 577.996
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.007 . Memory (MB): peak = 1162.301 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 1 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.gen/sources_1/bd/Block_Diagram_DDR3/ip/Block_Diagram_DDR3_ilmb_v10_0/Block_Diagram_DDR3_ilmb_v10_0_ooc.xdc] for cell 'U0'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.gen/sources_1/bd/Block_Diagram_DDR3/ip/Block_Diagram_DDR3_ilmb_v10_0/Block_Diagram_DDR3_ilmb_v10_0_ooc.xdc] for cell 'U0'
+Parsing XDC File [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.runs/Block_Diagram_DDR3_ilmb_v10_0_synth_1/dont_touch.xdc]
+Finished Parsing XDC File [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.runs/Block_Diagram_DDR3_ilmb_v10_0_synth_1/dont_touch.xdc]
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1166.664 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 1 instances were transformed.
+  FDS => FDSE: 1 instance 
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.048 . Memory (MB): peak = 1166.715 ; gain = 0.051
+INFO: [Designutils 20-5008] Incremental synthesis strategy off
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:40 ; elapsed = 00:00:47 . Memory (MB): peak = 1166.715 ; gain = 582.410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a100tcsg324-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:40 ; elapsed = 00:00:47 . Memory (MB): peak = 1166.715 ; gain = 582.410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+Applied set_property KEEP_HIERARCHY = SOFT for U0. (constraint file  C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.runs/Block_Diagram_DDR3_ilmb_v10_0_synth_1/dont_touch.xdc, line 9).
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:40 ; elapsed = 00:00:47 . Memory (MB): peak = 1166.715 ; gain = 582.410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:40 ; elapsed = 00:00:48 . Memory (MB): peak = 1166.715 ; gain = 582.410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 240 (col length:80)
+BRAMs: 270 (col length: RAMB18 80 RAMB36 40)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-7080] Parallel synthesis criteria is not met
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:45 ; elapsed = 00:00:54 . Memory (MB): peak = 1166.715 ; gain = 582.410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:01:00 ; elapsed = 00:01:09 . Memory (MB): peak = 1331.672 ; gain = 747.367
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:01:00 ; elapsed = 00:01:09 . Memory (MB): peak = 1331.672 ; gain = 747.367
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:01:00 ; elapsed = 00:01:09 . Memory (MB): peak = 1341.266 ; gain = 756.961
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:01:10 ; elapsed = 00:01:19 . Memory (MB): peak = 1558.062 ; gain = 973.758
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:01:10 ; elapsed = 00:01:19 . Memory (MB): peak = 1558.062 ; gain = 973.758
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:01:10 ; elapsed = 00:01:19 . Memory (MB): peak = 1558.062 ; gain = 973.758
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:01:10 ; elapsed = 00:01:19 . Memory (MB): peak = 1558.062 ; gain = 973.758
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:01:10 ; elapsed = 00:01:19 . Memory (MB): peak = 1558.062 ; gain = 973.758
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:01:10 ; elapsed = 00:01:19 . Memory (MB): peak = 1558.062 ; gain = 973.758
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+-----+------+
+|      |Cell |Count |
++------+-----+------+
+|1     |FDS  |     1|
++------+-----+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:01:10 ; elapsed = 00:01:19 . Memory (MB): peak = 1558.062 ; gain = 973.758
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 1 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:45 ; elapsed = 00:01:14 . Memory (MB): peak = 1558.062 ; gain = 969.344
+Synthesis Optimization Complete : Time (s): cpu = 00:01:10 ; elapsed = 00:01:20 . Memory (MB): peak = 1558.062 ; gain = 973.758
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.004 . Memory (MB): peak = 1558.062 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 1 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1558.062 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 1 instances were transformed.
+  FDS => FDSE: 1 instance 
+
+Synth Design complete | Checksum: 85f9e14c
+INFO: [Common 17-83] Releasing license: Synthesis
+26 Infos, 1 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:01:19 ; elapsed = 00:01:33 . Memory (MB): peak = 1558.062 ; gain = 1178.613
+INFO: [Common 17-1381] The checkpoint 'C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.runs/Block_Diagram_DDR3_ilmb_v10_0_synth_1/Block_Diagram_DDR3_ilmb_v10_0.dcp' has been generated.
+INFO: [Coretcl 2-1648] Added synthesis output to IP cache for IP Block_Diagram_DDR3_ilmb_v10_0, cache-ID = 5208ebe266666125
+INFO: [Common 17-1381] The checkpoint 'C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_DDR3/Acquire_DDR3.runs/Block_Diagram_DDR3_ilmb_v10_0_synth_1/Block_Diagram_DDR3_ilmb_v10_0.dcp' has been generated.
+INFO: [Vivado 12-24828] Executing command : report_utilization -file Block_Diagram_DDR3_ilmb_v10_0_utilization_synth.rpt -pb Block_Diagram_DDR3_ilmb_v10_0_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Tue Jul 29 07:49:37 2025...

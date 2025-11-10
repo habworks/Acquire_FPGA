@@ -1,0 +1,538 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Sun Oct 26 06:55:50 2025
+# Process ID         : 18672
+# Current directory  : C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1
+# Command line       : vivado.exe -log Block_Diagram_ADC_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Block_Diagram_ADC_wrapper.tcl
+# Log file           : C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/Block_Diagram_ADC_wrapper.vds
+# Journal file       : C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1\vivado.jou
+# Running On         : LAPTOP-6I567M9C
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+# CPU Frequency      : 1690 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 34116 MB
+# Swap memory        : 13958 MB
+# Total Virtual      : 48074 MB
+# Available Virtual  : 18742 MB
+#-----------------------------------------------------------
+source Block_Diagram_ADC_wrapper.tcl -notrace
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/ip_repo/imr_adc_7476a_v1_0_1_0'.
+WARNING: [IP_Flow 19-2207] Repository 'c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/ip_repo/imr_adc_7476a_v1_0_1_0' already exists; ignoring attempt to add it again.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/ip_repo/imr_adc_7476a_v1_0_1_0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2024.2/data/ip'.
+WARNING: [IP_Flow 19-4995] The host OS only allows 260 characters in a normal path. The IP cache path is more than 80 characters. If you experience issues with IP caching, please consider changing the IP cache to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. 
+Current IP cache path is c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.cache/ip 
+INFO: [Project 1-5578] Found utility IPs instantiated in block design C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.srcs/sources_1/bd/Block_Diagram_ADC/Block_Diagram_ADC.bd which have equivalent inline hdl with improved performance and reduced diskspace.
+It is recommended to migrate these utility IPs to inline hdl  using the command upgrade_project -migrate_to_inline_hdl.  The utility IPs may be deprecated in future releases.
+More information on inline hdl is available in UG994. 
+Command: read_checkpoint -auto_incremental -incremental C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.srcs/utils_1/imports/synth_1/Block_Diagram_ADC_wrapper.dcp
+INFO: [Vivado 12-5825] Read reference checkpoint from C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.srcs/utils_1/imports/synth_1/Block_Diagram_ADC_wrapper.dcp for incremental synthesis
+INFO: [Vivado 12-7989] Please ensure there are no constraint changes
+Command: synth_design -top Block_Diagram_ADC_wrapper -part xc7a100tcsg324-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Device 21-403] Loading part xc7a100tcsg324-1
+INFO: [Designutils 20-5440] No compile time benefit to using incremental synthesis; A full resynthesis will be run
+INFO: [Designutils 20-4379] Flow is switching to default flow due to incremental criteria not met. If you would like to alter this behaviour and have the flow terminate instead, please set the following parameter config_implementation {autoIncr.Synth.RejectBehavior Terminate}
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+WARNING: [Common 17-1361] You have specified a new message control rule that is equivalent to an existing rule with attributes ' -id {17-179}  -suppress '. The existing rule will be replaced.
+INFO: [Synth 8-7075] Helper process launched with PID 35724
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1113.059 ; gain = 467.848
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_wrapper' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/hdl/Block_Diagram_ADC_wrapper.v:13]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:13]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_axi_gpio_0_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_axi_gpio_0_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_axi_gpio_0_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_axi_gpio_0_0_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_axi_intc_0_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_axi_intc_0_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_axi_intc_0_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_axi_intc_0_0_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_axi_timer_0_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_axi_timer_0_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_axi_timer_0_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_axi_timer_0_0_stub.v:6]
+WARNING: [Synth 8-7071] port 'generateout0' of module 'Block_Diagram_ADC_axi_timer_0_0' is unconnected for instance 'axi_timer_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:286]
+WARNING: [Synth 8-7071] port 'generateout1' of module 'Block_Diagram_ADC_axi_timer_0_0' is unconnected for instance 'axi_timer_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:286]
+WARNING: [Synth 8-7071] port 'pwm0' of module 'Block_Diagram_ADC_axi_timer_0_0' is unconnected for instance 'axi_timer_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:286]
+WARNING: [Synth 8-7023] instance 'axi_timer_0' of module 'Block_Diagram_ADC_axi_timer_0_0' has 26 connections declared, but only 23 given [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:286]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_axi_uartlite_0_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_axi_uartlite_0_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_axi_uartlite_0_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_axi_uartlite_0_0_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_clk_wiz_1_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_clk_wiz_1_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_clk_wiz_1_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_clk_wiz_1_0_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_mdm_1_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_mdm_1_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_mdm_1_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_mdm_1_0_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_microblaze_0_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_microblaze_0_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_microblaze_0_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_microblaze_0_0_stub.v:6]
+WARNING: [Synth 8-7071] port 'Interrupt_Ack' of module 'Block_Diagram_ADC_microblaze_0_0' is unconnected for instance 'microblaze_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:351]
+WARNING: [Synth 8-7023] instance 'microblaze_0' of module 'Block_Diagram_ADC_microblaze_0_0' has 52 connections declared, but only 51 given [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:351]
+INFO: [Synth 8-6157] synthesizing module 'microblaze_0_local_memory_imp_G2AOVD' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:567]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_dlmb_bram_if_cntlr_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_dlmb_bram_if_cntlr_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_dlmb_bram_if_cntlr_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_dlmb_bram_if_cntlr_0_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_dlmb_v10_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_dlmb_v10_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_dlmb_v10_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_dlmb_v10_0_stub.v:6]
+WARNING: [Synth 8-7071] port 'LMB_Rst' of module 'Block_Diagram_ADC_dlmb_v10_0' is unconnected for instance 'dlmb_v10' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:692]
+WARNING: [Synth 8-7023] instance 'dlmb_v10' of module 'Block_Diagram_ADC_dlmb_v10_0' has 25 connections declared, but only 24 given [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:692]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_ilmb_bram_if_cntlr_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_ilmb_bram_if_cntlr_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_ilmb_bram_if_cntlr_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_ilmb_bram_if_cntlr_0_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_ilmb_v10_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_ilmb_v10_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_ilmb_v10_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_ilmb_v10_0_stub.v:6]
+WARNING: [Synth 8-7071] port 'LMB_Rst' of module 'Block_Diagram_ADC_ilmb_v10_0' is unconnected for instance 'ilmb_v10' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:738]
+WARNING: [Synth 8-7023] instance 'ilmb_v10' of module 'Block_Diagram_ADC_ilmb_v10_0' has 25 connections declared, but only 24 given [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:738]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_lmb_bram_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_lmb_bram_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_lmb_bram_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_lmb_bram_0_stub.v:6]
+WARNING: [Synth 8-7071] port 'rsta_busy' of module 'Block_Diagram_ADC_lmb_bram_0' is unconnected for instance 'lmb_bram' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:763]
+WARNING: [Synth 8-7071] port 'rstb_busy' of module 'Block_Diagram_ADC_lmb_bram_0' is unconnected for instance 'lmb_bram' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:763]
+WARNING: [Synth 8-7023] instance 'lmb_bram' of module 'Block_Diagram_ADC_lmb_bram_0' has 16 connections declared, but only 14 given [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:763]
+INFO: [Synth 8-6155] done synthesizing module 'microblaze_0_local_memory_imp_G2AOVD' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:567]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_rst_clk_wiz_1_100M_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_rst_clk_wiz_1_100M_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_rst_clk_wiz_1_100M_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_rst_clk_wiz_1_100M_0_stub.v:6]
+WARNING: [Synth 8-7071] port 'peripheral_reset' of module 'Block_Diagram_ADC_rst_clk_wiz_1_100M_0' is unconnected for instance 'rst_clk_wiz_1_100M' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:425]
+WARNING: [Synth 8-7071] port 'interconnect_aresetn' of module 'Block_Diagram_ADC_rst_clk_wiz_1_100M_0' is unconnected for instance 'rst_clk_wiz_1_100M' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:425]
+WARNING: [Synth 8-7023] instance 'rst_clk_wiz_1_100M' of module 'Block_Diagram_ADC_rst_clk_wiz_1_100M_0' has 10 connections declared, but only 8 given [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:425]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_smartconnect_0_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_smartconnect_0_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_smartconnect_0_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_smartconnect_0_0_stub.v:6]
+WARNING: [Synth 8-7071] port 'M00_AXI_awprot' of module 'Block_Diagram_ADC_smartconnect_0_0' is unconnected for instance 'smartconnect_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:434]
+WARNING: [Synth 8-7071] port 'M00_AXI_arprot' of module 'Block_Diagram_ADC_smartconnect_0_0' is unconnected for instance 'smartconnect_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:434]
+WARNING: [Synth 8-7071] port 'M01_AXI_awprot' of module 'Block_Diagram_ADC_smartconnect_0_0' is unconnected for instance 'smartconnect_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:434]
+WARNING: [Synth 8-7071] port 'M01_AXI_arprot' of module 'Block_Diagram_ADC_smartconnect_0_0' is unconnected for instance 'smartconnect_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:434]
+WARNING: [Synth 8-7071] port 'M02_AXI_awprot' of module 'Block_Diagram_ADC_smartconnect_0_0' is unconnected for instance 'smartconnect_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:434]
+WARNING: [Synth 8-7071] port 'M02_AXI_arprot' of module 'Block_Diagram_ADC_smartconnect_0_0' is unconnected for instance 'smartconnect_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:434]
+WARNING: [Synth 8-7071] port 'M03_AXI_awprot' of module 'Block_Diagram_ADC_smartconnect_0_0' is unconnected for instance 'smartconnect_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:434]
+WARNING: [Synth 8-7071] port 'M03_AXI_arprot' of module 'Block_Diagram_ADC_smartconnect_0_0' is unconnected for instance 'smartconnect_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:434]
+WARNING: [Synth 8-7023] instance 'smartconnect_0' of module 'Block_Diagram_ADC_smartconnect_0_0' has 116 connections declared, but only 108 given [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:434]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_util_vector_logic_0_0' [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_util_vector_logic_0_0_stub.v:6]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_util_vector_logic_0_0' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/.Xil/Vivado-18672-LAPTOP-6I567M9C/realtime/Block_Diagram_ADC_util_vector_logic_0_0_stub.v:6]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_xlconcat_0_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_xlconcat_0_0/synth/Block_Diagram_ADC_xlconcat_0_0.v:53]
+INFO: [Synth 8-6157] synthesizing module 'xlconcat_v2_1_6_xlconcat' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ipshared/6120/hdl/xlconcat_v2_1_vl_rfs.v:59]
+INFO: [Synth 8-6155] done synthesizing module 'xlconcat_v2_1_6_xlconcat' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ipshared/6120/hdl/xlconcat_v2_1_vl_rfs.v:59]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_xlconcat_0_0' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_xlconcat_0_0/synth/Block_Diagram_ADC_xlconcat_0_0.v:53]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_xlconcat_1_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_xlconcat_1_0/synth/Block_Diagram_ADC_xlconcat_1_0.v:53]
+INFO: [Synth 8-6157] synthesizing module 'xlconcat_v2_1_6_xlconcat__parameterized0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ipshared/6120/hdl/xlconcat_v2_1_vl_rfs.v:59]
+INFO: [Synth 8-6155] done synthesizing module 'xlconcat_v2_1_6_xlconcat__parameterized0' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ipshared/6120/hdl/xlconcat_v2_1_vl_rfs.v:59]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_xlconcat_1_0' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_xlconcat_1_0/synth/Block_Diagram_ADC_xlconcat_1_0.v:53]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_xlconstant_0_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_xlconstant_0_0/synth/Block_Diagram_ADC_xlconstant_0_0.v:53]
+INFO: [Synth 8-6157] synthesizing module 'xlconstant_v1_1_9_xlconstant' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ipshared/e2d2/hdl/xlconstant_v1_1_vl_rfs.v:68]
+INFO: [Synth 8-6155] done synthesizing module 'xlconstant_v1_1_9_xlconstant' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ipshared/e2d2/hdl/xlconstant_v1_1_vl_rfs.v:68]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_xlconstant_0_0' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_xlconstant_0_0/synth/Block_Diagram_ADC_xlconstant_0_0.v:53]
+INFO: [Synth 8-6157] synthesizing module 'Block_Diagram_ADC_xlslice_0_0' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_xlslice_0_0/synth/Block_Diagram_ADC_xlslice_0_0.v:53]
+INFO: [Synth 8-6157] synthesizing module 'xlslice_v1_0_4_xlslice' [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ipshared/a97c/hdl/xlslice_v1_0_vl_rfs.v:58]
+INFO: [Synth 8-6155] done synthesizing module 'xlslice_v1_0_4_xlslice' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ipshared/a97c/hdl/xlslice_v1_0_vl_rfs.v:58]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_xlslice_0_0' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_xlslice_0_0/synth/Block_Diagram_ADC_xlslice_0_0.v:53]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC' (0#1) [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/synth/Block_Diagram_ADC.v:13]
+INFO: [Synth 8-6155] done synthesizing module 'Block_Diagram_ADC_wrapper' (0#1) [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/hdl/Block_Diagram_ADC_wrapper.v:13]
+WARNING: [Synth 8-7129] Port Din[1] in module xlslice_v1_0_4_xlslice is either unconnected or has no load
+WARNING: [Synth 8-7129] Port Din[0] in module xlslice_v1_0_4_xlslice is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In6[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In7[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In8[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In9[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In10[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In11[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In12[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In13[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In14[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In15[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In16[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In17[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In18[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In19[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In20[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In21[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In22[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In23[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In24[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In25[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In26[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In27[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In28[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In29[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In30[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In31[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In32[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In33[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In34[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In35[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In36[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In37[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In38[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In39[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In40[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In41[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In42[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In43[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In44[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In45[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In46[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In47[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In48[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In49[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In50[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In51[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In52[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In53[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In54[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In55[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In56[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In57[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In58[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In59[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In60[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In61[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In62[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In63[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In64[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In65[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In66[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In67[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In68[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In69[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In70[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In71[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In72[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In73[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In74[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In75[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In76[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In77[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In78[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In79[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In80[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In81[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In82[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In83[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In84[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In85[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In86[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In87[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In88[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In89[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In90[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In91[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In92[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In93[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In94[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In95[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In96[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In97[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In98[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In99[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In100[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In101[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In102[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port In103[0] in module xlconcat_v2_1_6_xlconcat__parameterized0 is either unconnected or has no load
+INFO: [Common 17-14] Message 'Synth 8-7129' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:06 ; elapsed = 00:00:07 . Memory (MB): peak = 1229.078 ; gain = 583.867
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:06 ; elapsed = 00:00:07 . Memory (MB): peak = 1229.078 ; gain = 583.867
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:06 ; elapsed = 00:00:07 . Memory (MB): peak = 1229.078 ; gain = 583.867
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.010 . Memory (MB): peak = 1229.078 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_microblaze_0_0/Block_Diagram_ADC_microblaze_0_0/Block_Diagram_ADC_microblaze_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_microblaze_0_0/Block_Diagram_ADC_microblaze_0_0/Block_Diagram_ADC_microblaze_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_dlmb_v10_0/Block_Diagram_ADC_dlmb_v10_0/Block_Diagram_ADC_ilmb_v10_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0_local_memory/dlmb_v10'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_dlmb_v10_0/Block_Diagram_ADC_dlmb_v10_0/Block_Diagram_ADC_ilmb_v10_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0_local_memory/dlmb_v10'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_ilmb_v10_0/Block_Diagram_ADC_ilmb_v10_0/Block_Diagram_ADC_ilmb_v10_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0_local_memory/ilmb_v10'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_ilmb_v10_0/Block_Diagram_ADC_ilmb_v10_0/Block_Diagram_ADC_ilmb_v10_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0_local_memory/ilmb_v10'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_dlmb_bram_if_cntlr_0/Block_Diagram_ADC_dlmb_bram_if_cntlr_0/Block_Diagram_ADC_dlmb_bram_if_cntlr_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0_local_memory/dlmb_bram_if_cntlr'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_dlmb_bram_if_cntlr_0/Block_Diagram_ADC_dlmb_bram_if_cntlr_0/Block_Diagram_ADC_dlmb_bram_if_cntlr_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0_local_memory/dlmb_bram_if_cntlr'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_ilmb_bram_if_cntlr_0/Block_Diagram_ADC_ilmb_bram_if_cntlr_0/Block_Diagram_ADC_ilmb_bram_if_cntlr_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0_local_memory/ilmb_bram_if_cntlr'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_ilmb_bram_if_cntlr_0/Block_Diagram_ADC_ilmb_bram_if_cntlr_0/Block_Diagram_ADC_ilmb_bram_if_cntlr_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0_local_memory/ilmb_bram_if_cntlr'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_lmb_bram_0/Block_Diagram_ADC_lmb_bram_0/Block_Diagram_ADC_lmb_bram_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0_local_memory/lmb_bram'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_lmb_bram_0/Block_Diagram_ADC_lmb_bram_0/Block_Diagram_ADC_lmb_bram_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/microblaze_0_local_memory/lmb_bram'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_mdm_1_0/Block_Diagram_ADC_mdm_1_0/Block_Diagram_ADC_mdm_1_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/mdm_1'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_mdm_1_0/Block_Diagram_ADC_mdm_1_0/Block_Diagram_ADC_mdm_1_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/mdm_1'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_clk_wiz_1_0/Block_Diagram_ADC_clk_wiz_1_0/Block_Diagram_ADC_clk_wiz_1_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/clk_wiz_1'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_clk_wiz_1_0/Block_Diagram_ADC_clk_wiz_1_0/Block_Diagram_ADC_clk_wiz_1_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/clk_wiz_1'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_rst_clk_wiz_1_100M_0/Block_Diagram_ADC_rst_clk_wiz_1_100M_0/Block_Diagram_ADC_rst_clk_wiz_1_100M_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/rst_clk_wiz_1_100M'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_rst_clk_wiz_1_100M_0/Block_Diagram_ADC_rst_clk_wiz_1_100M_0/Block_Diagram_ADC_rst_clk_wiz_1_100M_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/rst_clk_wiz_1_100M'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_util_vector_logic_0_0/Block_Diagram_ADC_util_vector_logic_0_0/Block_Diagram_ADC_util_vector_logic_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/util_vector_logic_0'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_util_vector_logic_0_0/Block_Diagram_ADC_util_vector_logic_0_0/Block_Diagram_ADC_util_vector_logic_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/util_vector_logic_0'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_axi_intc_0_0/Block_Diagram_ADC_axi_intc_0_0/Block_Diagram_ADC_axi_intc_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/axi_intc_0'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_axi_intc_0_0/Block_Diagram_ADC_axi_intc_0_0/Block_Diagram_ADC_axi_intc_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/axi_intc_0'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_axi_timer_0_0/Block_Diagram_ADC_axi_timer_0_0/Block_Diagram_ADC_axi_timer_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/axi_timer_0'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_axi_timer_0_0/Block_Diagram_ADC_axi_timer_0_0/Block_Diagram_ADC_axi_timer_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/axi_timer_0'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_axi_gpio_0_0/Block_Diagram_ADC_axi_gpio_0_0/Block_Diagram_ADC_axi_gpio_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/axi_gpio_0'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_axi_gpio_0_0/Block_Diagram_ADC_axi_gpio_0_0/Block_Diagram_ADC_axi_gpio_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/axi_gpio_0'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_axi_uartlite_0_0/Block_Diagram_ADC_axi_uartlite_0_0/Block_Diagram_ADC_axi_uartlite_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/axi_uartlite_0'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_axi_uartlite_0_0/Block_Diagram_ADC_axi_uartlite_0_0/Block_Diagram_ADC_axi_uartlite_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/axi_uartlite_0'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_smartconnect_0_0/Block_Diagram_ADC_smartconnect_0_0/Block_Diagram_ADC_smartconnect_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/smartconnect_0'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_smartconnect_0_0/Block_Diagram_ADC_smartconnect_0_0/Block_Diagram_ADC_smartconnect_0_0_in_context.xdc] for cell 'Block_Diagram_ADC_i/smartconnect_0'
+Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7/Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7/Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7_in_context.xdc] for cell 'Block_Diagram_ADC_i/IMR_ADC_7476A_V1_0_0'
+Finished Parsing XDC File [c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7/Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7/Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7_in_context.xdc] for cell 'Block_Diagram_ADC_i/IMR_ADC_7476A_V1_0_0'
+Parsing XDC File [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.srcs/constrs_1/new/Constraints.xdc]
+Finished Parsing XDC File [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.srcs/constrs_1/new/Constraints.xdc]
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.srcs/constrs_1/new/Constraints.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/Block_Diagram_ADC_wrapper_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/Block_Diagram_ADC_wrapper_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+Parsing XDC File [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/dont_touch.xdc]
+Finished Parsing XDC File [C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/dont_touch.xdc]
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1229.078 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.010 . Memory (MB): peak = 1229.078 ; gain = 0.000
+WARNING: [Timing 38-316] Clock period '20.000' specified during out-of-context synthesis of instance 'Block_Diagram_ADC_i/microblaze_0_local_memory/lmb_bram' at clock pin 'clka' is different from the actual clock period '10.000', this can lead to different synthesis results.
+INFO: [Designutils 20-5440] No compile time benefit to using incremental synthesis; A full resynthesis will be run
+INFO: [Designutils 20-4379] Flow is switching to default flow due to incremental criteria not met. If you would like to alter this behaviour and have the flow terminate instead, please set the following parameter config_implementation {autoIncr.Synth.RejectBehavior Terminate}
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:14 ; elapsed = 00:00:14 . Memory (MB): peak = 1229.078 ; gain = 583.867
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a100tcsg324-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:14 ; elapsed = 00:00:14 . Memory (MB): peak = 1229.078 ; gain = 583.867
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+Applied set_property IO_BUFFER_TYPE = NONE for CLK_IN. (constraint file  c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_clk_wiz_1_0/Block_Diagram_ADC_clk_wiz_1_0/Block_Diagram_ADC_clk_wiz_1_0_in_context.xdc, line 3).
+Applied set_property CLOCK_BUFFER_TYPE = NONE for CLK_IN. (constraint file  c:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.gen/sources_1/bd/Block_Diagram_ADC/ip/Block_Diagram_ADC_clk_wiz_1_0/Block_Diagram_ADC_clk_wiz_1_0/Block_Diagram_ADC_clk_wiz_1_0_in_context.xdc, line 4).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/microblaze_0. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/microblaze_0_local_memory/dlmb_v10. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/microblaze_0_local_memory/ilmb_v10. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/microblaze_0_local_memory/dlmb_bram_if_cntlr. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/microblaze_0_local_memory/ilmb_bram_if_cntlr. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/microblaze_0_local_memory/lmb_bram. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/mdm_1. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/clk_wiz_1. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/rst_clk_wiz_1_100M. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/util_vector_logic_0. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/axi_intc_0. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/axi_timer_0. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/axi_gpio_0. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/axi_uartlite_0. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/smartconnect_0. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/xlconstant_0. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/xlconcat_0. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/xlconcat_1. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/IMR_ADC_7476A_V1_0_0. (constraint file  auto generated constraint).
+Applied set_property KEEP_HIERARCHY = SOFT for Block_Diagram_ADC_i/xlslice_0. (constraint file  auto generated constraint).
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:14 ; elapsed = 00:00:15 . Memory (MB): peak = 1229.078 ; gain = 583.867
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:14 ; elapsed = 00:00:15 . Memory (MB): peak = 1229.078 ; gain = 583.867
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 240 (col length:80)
+BRAMs: 270 (col length: RAMB18 80 RAMB36 40)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-7080] Parallel synthesis criteria is not met
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:16 ; elapsed = 00:00:16 . Memory (MB): peak = 1229.078 ; gain = 583.867
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:20 ; elapsed = 00:00:21 . Memory (MB): peak = 1395.492 ; gain = 750.281
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:20 ; elapsed = 00:00:21 . Memory (MB): peak = 1395.492 ; gain = 750.281
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:20 ; elapsed = 00:00:21 . Memory (MB): peak = 1406.387 ; gain = 761.176
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:24 ; elapsed = 00:00:25 . Memory (MB): peak = 1622.695 ; gain = 977.484
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:24 ; elapsed = 00:00:25 . Memory (MB): peak = 1622.695 ; gain = 977.484
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:24 ; elapsed = 00:00:25 . Memory (MB): peak = 1622.695 ; gain = 977.484
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:24 ; elapsed = 00:00:25 . Memory (MB): peak = 1622.695 ; gain = 977.484
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:24 ; elapsed = 00:00:25 . Memory (MB): peak = 1622.695 ; gain = 977.484
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:24 ; elapsed = 00:00:25 . Memory (MB): peak = 1622.695 ; gain = 977.484
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++------+-----------------------------------------+----------+
+|      |BlackBox name                            |Instances |
++------+-----------------------------------------+----------+
+|1     |Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0_7 |         1|
+|2     |Block_Diagram_ADC_axi_gpio_0_0           |         1|
+|3     |Block_Diagram_ADC_axi_intc_0_0           |         1|
+|4     |Block_Diagram_ADC_axi_timer_0_0          |         1|
+|5     |Block_Diagram_ADC_axi_uartlite_0_0       |         1|
+|6     |Block_Diagram_ADC_clk_wiz_1_0            |         1|
+|7     |Block_Diagram_ADC_mdm_1_0                |         1|
+|8     |Block_Diagram_ADC_microblaze_0_0         |         1|
+|9     |Block_Diagram_ADC_rst_clk_wiz_1_100M_0   |         1|
+|10    |Block_Diagram_ADC_smartconnect_0_0       |         1|
+|11    |Block_Diagram_ADC_util_vector_logic_0_0  |         1|
+|12    |Block_Diagram_ADC_dlmb_bram_if_cntlr_0   |         1|
+|13    |Block_Diagram_ADC_dlmb_v10_0             |         1|
+|14    |Block_Diagram_ADC_ilmb_bram_if_cntlr_0   |         1|
+|15    |Block_Diagram_ADC_ilmb_v10_0             |         1|
+|16    |Block_Diagram_ADC_lmb_bram_0             |         1|
++------+-----------------------------------------+----------+
+
+Report Cell Usage: 
++------+---------------------------------------+------+
+|      |Cell                                   |Count |
++------+---------------------------------------+------+
+|1     |Block_Diagram_ADC_IMR_ADC_7476A_V1_0_0 |     1|
+|2     |Block_Diagram_ADC_axi_gpio_0           |     1|
+|3     |Block_Diagram_ADC_axi_intc_0           |     1|
+|4     |Block_Diagram_ADC_axi_timer_0          |     1|
+|5     |Block_Diagram_ADC_axi_uartlite_0       |     1|
+|6     |Block_Diagram_ADC_clk_wiz_1            |     1|
+|7     |Block_Diagram_ADC_dlmb_bram_if_cntlr   |     1|
+|8     |Block_Diagram_ADC_dlmb_v10             |     1|
+|9     |Block_Diagram_ADC_ilmb_bram_if_cntlr   |     1|
+|10    |Block_Diagram_ADC_ilmb_v10             |     1|
+|11    |Block_Diagram_ADC_lmb_bram             |     1|
+|12    |Block_Diagram_ADC_mdm_1                |     1|
+|13    |Block_Diagram_ADC_microblaze_0         |     1|
+|14    |Block_Diagram_ADC_rst_clk_wiz_1_100M   |     1|
+|15    |Block_Diagram_ADC_smartconnect_0       |     1|
+|16    |Block_Diagram_ADC_util_vector_logic_0  |     1|
+|17    |IBUF                                   |    10|
+|18    |OBUF                                   |     8|
++------+---------------------------------------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:24 ; elapsed = 00:00:25 . Memory (MB): peak = 1622.695 ; gain = 977.484
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 3 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:16 ; elapsed = 00:00:23 . Memory (MB): peak = 1622.695 ; gain = 977.484
+Synthesis Optimization Complete : Time (s): cpu = 00:00:24 ; elapsed = 00:00:25 . Memory (MB): peak = 1622.695 ; gain = 977.484
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.008 . Memory (MB): peak = 1631.844 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1635.531 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Synth Design complete | Checksum: 1e7fa231
+INFO: [Common 17-83] Releasing license: Synthesis
+79 Infos, 168 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:27 ; elapsed = 00:00:31 . Memory (MB): peak = 1635.531 ; gain = 1197.895
+Write ShapeDB Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1635.531 ; gain = 0.000
+CRITICAL WARNING: [HDF 64-24] The driver does not have a .mdd file: IMR:user:IMR_ADC_7476A_V1_0:1.8
+INFO: [Common 17-1381] The checkpoint 'C:/IMR_Projects/IMR/Acquire_FPGA/Vivado_Workspace/Acquire_ADC/Acquire_ADC.runs/synth_1/Block_Diagram_ADC_wrapper.dcp' has been generated.
+INFO: [Vivado 12-24828] Executing command : report_utilization -file Block_Diagram_ADC_wrapper_utilization_synth.rpt -pb Block_Diagram_ADC_wrapper_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Sun Oct 26 06:56:33 2025...

@@ -1,0 +1,37 @@
+# Added for C Language
+
+
+# Object files
+
+
+# Linker output
+
+
+# Precompiled Headers
+
+
+# Libraries
+
+
+# Shared objects (inc. Windows DLLs)
+
+
+# Executables
+
+
+# Debug files
+
+
+# Kernel Module Compile Results
+
+
+#Ignore these specific file types
+
+
+
+#Unwanted Folders for the repo
+PMOD_Schematics/
+Support_Drivers_Libs/
+
+
+

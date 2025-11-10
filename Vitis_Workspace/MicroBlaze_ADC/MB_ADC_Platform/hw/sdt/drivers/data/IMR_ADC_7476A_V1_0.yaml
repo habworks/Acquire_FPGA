@@ -1,0 +1,12 @@
+compatible: "imr,adc-7476a"
+requires:
+  - "standalone_xilinx"
+  - "axi_intc"
+
+interrupts:
+  - name: imr_adc_7476a_irq
+    port: IRQ
+    mode: master
+    sensitivity: EDGE_RISING
+    type: interrupt
+    description: "Interrupt output from IMR ADC 7476A custom IP"

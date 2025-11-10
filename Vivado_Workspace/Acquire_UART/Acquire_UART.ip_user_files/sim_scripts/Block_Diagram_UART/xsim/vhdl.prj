@@ -1,0 +1,15 @@
+vhdl xil_defaultlib  \
+"../../../bd/Block_Diagram_UART/ip/Block_Diagram_UART_microblaze_0_0/sim/Block_Diagram_UART_microblaze_0_0.vhd" \
+"../../../bd/Block_Diagram_UART/ip/Block_Diagram_UART_dlmb_v10_0/sim/Block_Diagram_UART_dlmb_v10_0.vhd" \
+"../../../bd/Block_Diagram_UART/ip/Block_Diagram_UART_ilmb_v10_0/sim/Block_Diagram_UART_ilmb_v10_0.vhd" \
+"../../../bd/Block_Diagram_UART/ip/Block_Diagram_UART_dlmb_bram_if_cntlr_0/sim/Block_Diagram_UART_dlmb_bram_if_cntlr_0.vhd" \
+"../../../bd/Block_Diagram_UART/ip/Block_Diagram_UART_ilmb_bram_if_cntlr_0/sim/Block_Diagram_UART_ilmb_bram_if_cntlr_0.vhd" \
+"../../../bd/Block_Diagram_UART/ip/Block_Diagram_UART_microblaze_0_axi_intc_0/sim/Block_Diagram_UART_microblaze_0_axi_intc_0.vhd" \
+"../../../bd/Block_Diagram_UART/ip/Block_Diagram_UART_mdm_1_0/sim/Block_Diagram_UART_mdm_1_0.vhd" \
+"../../../bd/Block_Diagram_UART/ip/Block_Diagram_UART_rst_clk_wiz_1_100M_0/sim/Block_Diagram_UART_rst_clk_wiz_1_100M_0.vhd" \
+"../../../bd/Block_Diagram_UART/ip/Block_Diagram_UART_smartconnect_0_0/bd_0/ip/ip_1/sim/bd_cb54_psr_aclk_0.vhd" \
+"../../../bd/Block_Diagram_UART/ip/Block_Diagram_UART_axi_gpio_0_0/sim/Block_Diagram_UART_axi_gpio_0_0.vhd" \
+"../../../bd/Block_Diagram_UART/ip/Block_Diagram_UART_axi_timer_0_0/sim/Block_Diagram_UART_axi_timer_0_0.vhd" \
+
+# Do not sort compile order
+nosort
