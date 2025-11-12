@@ -1,16 +1,20 @@
-# 2025-11-09T07:21:19.979330600
+# 2025-11-11T05:40:29.064321100
 import vitis
 
 client = vitis.create_client()
 client.set_workspace(path="MicroBlaze_LCD")
 
+comp = client.get_component(name="MB_LCD_App")
+status = comp.clean()
+
 platform = client.get_component(name="MB_LCD_Platform")
 status = platform.build()
 
-comp = client.get_component(name="MB_LCD_App")
 comp.build()
 
 status = platform.build()
+
+comp.build()
 
 status = comp.clean()
 

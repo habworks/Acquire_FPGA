@@ -20,21 +20,21 @@ ENTRY(_start)
 
 SECTIONS
 {
-.vectors.reset 0x00000000 : {
+.vectors.reset 0x80000000 : {
    KEEP (*(.vectors.reset))
-} 
+} > mig_0
 
-.vectors.sw_exception 0x00000008 : {
+.vectors.sw_exception 0x80000008 : {
    KEEP (*(.vectors.sw_exception))
-} 
+} > mig_0
 
-.vectors.interrupt 0x00000010 : {
+.vectors.interrupt 0x80000010 : {
    KEEP (*(.vectors.interrupt))
-} 
+} > mig_0
 
-.vectors.hw_exception 0x00000020 : {
+.vectors.hw_exception 0x80000020 : {
    KEEP (*(.vectors.hw_exception))
-} 
+} > mig_0
 
 .text : {
    *(.text)
